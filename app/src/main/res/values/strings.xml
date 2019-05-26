@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LP01-T5AM</string>
+    <string name="detalleProducto">Detalle de Producto</string>
+    <string name="productoSeleccionado">El producto seleccionado es :</string>
+    <string name="producto">Producto :</string>
+    <string name="Tipo">Tipo :</string>
+    <string name="Stock">Stock :</string>
+    <string name="Precio">Precio :</string>
+</resources>
